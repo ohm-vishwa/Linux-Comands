@@ -63,5 +63,5 @@ sudo nano .bashrc
 export PATH=$PATH:~/katoolin3:/usr/bin/python3
 ```
 ---
-## [View My GitHub Profile](https://github.com/ohm-vishwa) &#xF3ED;
-## [Keep Supporting on YouTube](https://www.youtube.com/@ohm_vishwa) &#xF62B;
+## [View My GitHub Profile](https://github.com/ohm-vishwa) 
+## [Keep Supporting on YouTube](https://www.youtube.com/@ohm_vishwa)
