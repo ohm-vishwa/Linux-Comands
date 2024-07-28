@@ -1,5 +1,5 @@
 # Linux-Comands
-|Table of Content|
+| [Table of Content](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#linux-comands)|
 |------------|
 |[Make terminal like look like Parrot OS](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#make-terminal-like-look-like-parrot-os)|
 |[Install  Gome extension](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#install--gome-extension)|
