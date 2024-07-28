@@ -63,5 +63,9 @@ sudo nano .bashrc
 export PATH=$PATH:~/katoolin3:/usr/bin/python3
 ```
 ---
+## Convert .odt to pdf
+```sh
+libreoffice --convert-to pdf *.odt
+```
 ## [View My GitHub Profile](https://github.com/ohm-vishwa) 
 ## [Keep Supporting on YouTube](https://www.youtube.com/@ohm_vishwa)
