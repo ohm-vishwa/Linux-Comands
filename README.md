@@ -1,5 +1,13 @@
 # Linux-Comands
-It Contains Helpful comands for Debian Based Linux Distro ( mainly for Ubuntu )
+|Table of Content|
+|------------|
+|[Make terminal like look like Parrot OS](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#make-terminal-like-look-like-parrot-os)|
+|[Install  Gome extension](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#install--gome-extension)|
+|[Stop Battery Charging at 80% in linux (Asus Laptop)](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#stop-battery-charging-at-80-in-linux-asus-laptop)|
+|[install (kali tools) Katoolin3 in Ubuntu](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#install-kali-tools-katoolin3-in-ubuntu)|
+|[Convert .odt to pdf](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#convert-odt-to-pdf)|
+|[FFmpeg Commands](https://github.com/ohm-vishwa/Linux-Comands?tab=readme-ov-file#FFmpeg-Commands)|
+|[]()|
 
 ## Make terminal like look like Parrot OS
 [Parrot Os .bashrc file](/.bashrc)
@@ -68,7 +76,7 @@ export PATH=$PATH:~/katoolin3:/usr/bin/python3
 libreoffice --convert-to pdf *.odt
 ```
 ---
-## ffmpeg
+## FFmpeg Commands
 FFmpeg is a powerful multimedia framework that can decode, encode, transcode, mux, demux, stream, filter, and play almost anything that humans and machines have created. Here are some basic and commonly used FFmpeg commands:
 
 ### Basic FFmpeg Commands
