@@ -142,9 +142,10 @@ FFmpeg is a powerful multimedia framework that can decode, encode, transcode, mu
    ```sh
    ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" output.mp4
    ```
-   Here, `0.5*PTS` speeds up the video to 2x. Use `2.0*PTS` to slow it down to half speed.
+Here, `0.5*PTS` speeds up the video to 2x. Use `2.0*PTS` to slow it down to half speed.
 
 These commands cover a broad range of basic and advanced uses. Depending on your specific needs, FFmpeg offers a plethora of options to further fine-tune these commands.
+
 ---
 ## [View My GitHub Profile](https://github.com/ohm-vishwa) 
 ## [Keep Supporting on YouTube](https://www.youtube.com/@ohm_vishwa)
